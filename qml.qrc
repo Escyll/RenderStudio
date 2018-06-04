@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Live.png</file>
+        <file>Rendered.png</file>
+        <file>SettingsPane.qml</file>
+        <file>SceneView.qml</file>
+        <file>CameraSettings.qml</file>
+        <file>EditView.qml</file>
+        <file>RenderView.qml</file>
+        <file>StudioStateMachine.qml</file>
+    </qresource>
+</RCC>
